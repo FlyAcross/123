@@ -50,9 +50,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : Flyname
+    short_name : FlyAcross
   disqus :
-      short_name : Flyname
+      short_name : FlyAcross
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
