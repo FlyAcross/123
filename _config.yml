@@ -1,8 +1,8 @@
 # Site settings
-title: 读立写生
+title:  峰高谷深 皆有风光
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "晖过求字"  
 baseurl: ""
 url: "http://cnfeat"  
 
@@ -16,12 +16,11 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+
+github_username: FlyAcross
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+weibo_username: 
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -51,9 +50,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : Flyname
   disqus :
-      short_name : cnfeat
+      short_name : Flyname
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
