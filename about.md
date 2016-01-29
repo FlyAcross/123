@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: " "
 header-img: "img/green.jpg"
 ---
 
@@ -22,11 +22,6 @@ header-img: "img/green.jpg"
 ###关注：
 
 
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
 
 
 
