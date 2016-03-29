@@ -1,6 +1,6 @@
 # Site settings
-title:  峰高谷深 皆有风光
-header-img: "img/facebook.jpg"
+title: 峰高谷深 皆有风光
+header-img: "img/green.jpg"
 tagline: "cn"  
 description: "晖过求字"  
 baseurl: ""
@@ -8,7 +8,7 @@ url: "http://3un4.com"
 
 # About/contact
 owner: 
-  name: "FlyAcross"
+  name: " FlyAcross"
   email: thes.undive@outlook.com
   bio: "写了就懂了"
 
@@ -16,8 +16,9 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-
-github_username: FlyAcross
+douban_username:  
+twitter_username: 
+github_username: 
 facebook_username: 
 weibo_username: 
 zhihu_username: 
@@ -26,11 +27,10 @@ zhihu_username:
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-relative_permalinks: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
@@ -43,14 +43,14 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "FlyAcross"
-      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+      author: "CnFeat"
+      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
-  duoshuo : 3un4.duoshuo.com
-    short_name : 明盈亏
+  duoshuo :
+    short_name : 
   disqus :
       short_name : 
 
