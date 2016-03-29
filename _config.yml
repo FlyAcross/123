@@ -50,9 +50,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo : 3un4.duoshuo.com
-    short_name : FlyAcross
+    short_name : 明盈亏
   disqus :
-      short_name : FlyAcross
+      short_name : 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
