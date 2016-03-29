@@ -49,7 +49,7 @@ defaults:
 # Comments 
 comments :
   provider : duoshuo
-  duoshuo : 3un4.duoshuo.com
+  duoshuo : 
     short_name : FlyAcross
   disqus :
       short_name : FlyAcross
