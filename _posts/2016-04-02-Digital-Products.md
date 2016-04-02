@@ -11,7 +11,7 @@ tags: [总结]
 
 1. [搞机小计](http://bbs.dgtle.com/thread-196794-1-1.html)
 2. [蓝色的对撞 — Nokia 210 & iPod Shuffle 4](http://bbs.dgtle.com/thread-228733-1-1.html)
-3. [蓝色的传递——ipod shuffle4&sony a15](http://bbs.dgtle.com/thread-269468-1-1.html）)
+3. [蓝色的传递——ipod shuffle4&sony a15](http://bbs.dgtle.com/thread-269468-1-1.html)
 
 这三个帖子的跨度正好一年（2014-6-22 至 2015-6-27），在介绍我的设备及使用情况的同时，体现出我对数码产品的选用理念——“功能分散，从而赢得个人专注”。
 
