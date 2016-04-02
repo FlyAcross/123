@@ -20,7 +20,7 @@ header-img: "img/green.jpg"
 
 
 ### 关注：
-如何利用github pages搭建搭建独立博客-cnfeat
+[如何利用github pages搭建搭建独立博客-cnfeat](http://www.jianshu.com/p/05289a4bc8b2)
 
 
 
