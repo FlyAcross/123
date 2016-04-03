@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我与数码产品
-date: 2016-04-02
+date: 2016-03-30
 categories: blog
 tags: [总结]
 ---
