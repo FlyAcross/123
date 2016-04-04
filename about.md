@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xoxgc.com1.z0.glb.clouddn.com/psb%20%2829%29.jpg" align="center"></p>
+    <p><img src="http://7xoxgc.com1.z0.glb.clouddn.com/%E6%A0%BC%E5%BC%8F%E5%B7%A5%E5%8E%82psb%20%2829%29.jpg" align="center"></p>
 </center>
 
 之所以喜欢写字，是因为在逐字的审慎中可以得到一个期望中的自己。
