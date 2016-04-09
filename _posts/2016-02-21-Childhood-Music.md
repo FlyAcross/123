@@ -20,20 +20,18 @@ tags: [影音,资源]
 一、 [柯南精选集系列](http://music.163.com/#/search/m/?id=4940932&s=THE%20BEST%20OF%20DETECTIVE%20CONAN&type=10)
 
 * [名探侦コナン テーマ曲集1~THE BEST OF DETECTIVE CONAN 1](http://music.163.com/#/album?id=496860)
-* [名探侦コナン テーマ曲集2~THE BEST OF DETECTIVE CONAN 2](http://music.163.com/#/album?id=496537)
 
+* [名探侦コナン テーマ曲集2~THE BEST OF DETECTIVE CONAN 2](http://music.163.com/#/album?id=496537)
 
 * [名探侦コナン テーマ曲集3~THE BEST OF DETECTIVE CONAN 3](http://music.163.com/#/album?id=494927)	
 
-
 * [名探侦コナン テーマ曲集4~THE BEST OF DETECTIVE CONAN 4](http://music.163.com/#/album?id=492691)
-
 
 * [名探侦コナン テーマ曲集5~THE BEST OF DETECTIVE CONAN 5](http://music.163.com/#/album?id=3048041) 
 
 二、 [数码宝贝 Digimon History 1999-2006 All The Best](http://music.163.com/#/album?id=494028)
 
-三、 [ウルトラマンシリーズ诞生40周年记念 ウルトラマン主题歌大全集]（http://music.163.com/#/album?id=495615）
+三、 [ウルトラマンシリーズ诞生40周年记念 ウルトラマン主题歌大全集](http://music.163.com/#/album?id=495615)
 
 四、 [爆走兄弟レッツ&ゴー テーマソングコレクションPLUS!!](http://music.163.com/#/album?id=496297)
 
