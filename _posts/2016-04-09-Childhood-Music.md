@@ -39,7 +39,7 @@
 
 ![](http://p3.music.126.net/fysD-1SXjqIY1f91k4NThw==/5790028232027570.jpg)
 
-| ![](https://raw.githubusercontent.com/FlyAcross/FlyAcross.github.io/master/img/download.PNG) |                    格式                    | 提取码  |
+|        ![](https://raw.githubusercontent.com/FlyAcross/FlyAcross.github.io/master/img/download.PNG) |                    格式                    | 提取码  |
 | ---------------------------------------: | :--------------------------------------: | :--- |
 |                                          | [FLAC](http://pan.baidu.com/share/init?shareid=1133626014&uk=1879509496) | 1ccf |
 |                                          | [AAC](http://pan.baidu.com/share/init?shareid=1469606262&uk=3409063139) | 9drf |
