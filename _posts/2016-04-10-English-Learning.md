@@ -36,7 +36,7 @@ tags: [英语,资源]
 | 书名                                       | 提取码  | 备注   |
 | ---------------------------------------- | ---- | ---- |
 | [赖世雄经典语法](http://pan.baidu.com/s/1hsbHCRq) | 6il0 |      |
-| [剑桥中级英语语法](https://book.douban.com/subject/1228952/) | /  | 无电子版 |
+| [剑桥中级英语语法](https://book.douban.com/subject/1228952/) |  /  | 无电子版 |
 | [英语语法新思维](http://pan.baidu.com/s/1i54fPtV) | zy5b | 不推荐  |
 
 ## 跟读，口语训练与材料输入
