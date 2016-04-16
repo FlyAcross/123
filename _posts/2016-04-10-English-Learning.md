@@ -1,18 +1,9 @@
-<<<<<<< HEAD
 ---
 layout: post
-title:把你的英语用起来
+title: 把你的英语用起来
 date: 2016-04-10
 categories: blog
 tags: [英语,资源]
-=======
-  ---
-  layout: post
-  title: 把你的英语用起来
-  date: 2016-04-10
-  categories: blog
-  tags: [英语,资源]
->>>>>>> origin/master
 
 ---
 
