@@ -1,16 +1,15 @@
-* ---
-  layout: post
-  title: 把你的英语用起来
-  date: 2016-04-10
-  categories: blog
-  tags: [英语,资源]
+---
+layout: post
+title:把你的英语用起来
+date: 2016-04-10
+categories: blog
+tags: [英语,资源]
 
-  ---
+---
 
-  在学习的路上摸索着，能够得到一些指点无疑是最好的，我很庆幸自己得到了前辈的经验之谈。我现在仍然走在路上，因此谈系统的总结出一套学习英语的方法，还远未到达那样的高度。但是前辈所分享的资源，颇为散乱，而我在自己的学习过程中，为了方便进行了一定的整理。基于分享的精神，我希望大家能够借助我整合后的资料，更为便利的学习英语。
+在学习的路上摸索着，能够得到一些指点无疑是最好的，我很庆幸自己得到了前辈的经验之谈。我现在仍然走在路上，因此谈系统的总结出一套学习英语的方法，还远未到达那样的高度。但是前辈所分享的资源，颇为散乱，而我在自己的学习过程中，为了方便进行了一定的整理。基于分享的精神，我希望大家能够借助我整合后的资料，更为便利的学习英语。
 
-  ## 通过阅读来系统了解如何学习与应用英语
-
+## 通过阅读来系统了解如何学习与应用英语
 
   在学习一门技能或是学科的初期，最忌如闷头苍蝇一样到处乱撞，因此先对学习的过程有一个全局性的了解是很有必要的。针对这一点，我想要推荐两本书：
 
@@ -25,24 +24,24 @@
   这两本书就是在这一理念下所写的方法书，其共同点在于：1.强调运用 2.强调输入 3.提供材料与路径，强调自我练习。只不过《人人都能用英语》这本书用了更多的文字来拆解和分析英语学习的各个方面，从这一点上来说，《人人》可以算是对更强调英语实践方法的《把你的英语用起来》进行了补充。但最初请不要一口气读完两本书，那样的话，过大的信息量会让自己产生过大的压力。本人是在按照《把》中路线图进行了长期学习后，才接触到《人人》这本书，结合自己英语学习的实际，又有了新的收获。因此，推荐任选一本攻读，在自己明显感到英语水平提升遇见瓶颈时，再阅读另外一本。
 
 
-  |                    书名                    | 提取码  |
-  | :--------------------------------------: | :--: |
-  | [《人人都可以用英语》](http://pan.baidu.com/s/1o8Abs9s) | n1yz |
-  | [《把你的英语用起来》](http://pan.baidu.com/s/1byEmoY) | vatq |
+|                    书名                    | 提取码  |
+| :--------------------------------------: | :--: |
+| [《人人都可以用英语》](http://pan.baidu.com/s/1o8Abs9s) | n1yz |
+| [《把你的英语用起来》](http://pan.baidu.com/s/1byEmoY) | vatq |
 
   ## 语法
   赖世雄经典语法+剑桥中级英语语法：前者对语法有详细且系统的讲解，不足在于仅有每章节结束时的综合练习，况且通篇语法下来，容易给学习者带来不小的压力：后者则是一页讲解一页练习的模式，方便学生及时检验和巩固学习成果。两相结合，无疑是最好的。
 
-  | 书名                                       | 提取码  | 备注   |
-  | ---------------------------------------- | :--- | ---- |
-  | [赖世雄经典语法](http://pan.baidu.com/s/1hsbHCRq) | 6il0 |      |
-  | [剑桥中级英语语法](https://book.douban.com/subject/1228952/) | /    | 无电子版 |
-  | [英语语法新思维](http://pan.baidu.com/s/1i54fPtV) | zy5b |      |
+| 书名                                       | 提取码  | 备注   |
+| ---------------------------------------- | :--- | ---- |
+| [赖世雄经典语法](http://pan.baidu.com/s/1hsbHCRq) | 6il0 |      |
+| [剑桥中级英语语法](https://book.douban.com/subject/1228952/) | /    | 无电子版 |
+| [英语语法新思维](http://pan.baidu.com/s/1i54fPtV) | zy5b |      |
 
   ## 跟读，口语训练与材料输入
   这一点请参考《把你的英语用起来》中相关章节的内容，里面列得很详细，我只是把相关资料按照易用的原则进行了整理。
 
-  - 口语入门
+- 口语入门
 
   ![](https://img3.doubanio.com/lpic/s27317875.jpg)
 
@@ -58,25 +57,25 @@
 
   最后，特别强调一下：楼主并不是狭隘地强调“标准音”，国外其实没有什么标准音，外国人也不在乎的。楼主想说的是：口音可以有（外国人不在乎的，阿三们说成那样还当电话客服呢。。但是好像外国人对他们的口音很习惯。。），但是必须UNDERSTANDABLE，这样我们的耳朵也会敏锐很多。
 
-  |                    书名                    | 提取码  |  备注  |
-  | :--------------------------------------: | :--: | :--: |
-  | [赖世雄美语音标](http://pan.baidu.com/s/1c2LQYzu) | u7rn |  配合  |
-  | [Paul 叔 APW](http://pan.baidu.com/s/1ct4KIa) | afgc |  使用  |
+|                    书名                    | 提取码  |  备注  |
+| :--------------------------------------: | :--: | :--: |
+| [赖世雄美语音标](http://pan.baidu.com/s/1c2LQYzu) | u7rn |  配合  |
+| [Paul 叔 APW](http://pan.baidu.com/s/1ct4KIa) | afgc |  使用  |
 
-  - 跟读材料
+- 跟读材料
 
   ![](https://www.eslpod.com/website/images/new_logo.gif)
 
-  | 名称                                       | 提取码  | 备注   |
-  | ---------------------------------------- | ---- | ---- |
-  | [Day_in_the_Life_of_Jeff](http://pan.baidu.com/s/1nvBzpBN) | 899t | 生活   |
-  | [Day_in_the_Life_of_lucy](http://pan.baidu.com/s/1nuQIewx) | vvns | 生活   |
-  | [English_for_Business_Meetings](http://pan.baidu.com/s/1i43jEol) | tnh7 | 工作   |
-  | [Interview_Questions_Answered](http://pan.baidu.com/s/1cp1avO) | kd1c | 工作   |
-  | [Using_English_at_work](http://pan.baidu.com/s/1qYoY51E) | wn34 | 工作   |
-  | [Missing_Persons_English_Through_Stories](http://pan.baidu.com/s/1dE3XMfv) | 4os2 | 生活   |
-  | [Deadly_Letter](http://pan.baidu.com/s/1cukIJk) | kx81 | 生活   |
-  | [Introduction_to_the_United_States](http://pan.baidu.com/s/1hrGIUbU) | qk15 | 社会   |
+| 名称                                       | 提取码  | 备注   |
+| ---------------------------------------- | ---- | ---- |
+| [Day_in_the_Life_of_Jeff](http://pan.baidu.com/s/1nvBzpBN) | 899t | 生活   |
+| [Day_in_the_Life_of_lucy](http://pan.baidu.com/s/1nuQIewx) | vvns | 生活   |
+| [English_for_Business_Meetings](http://pan.baidu.com/s/1i43jEol) | tnh7 | 工作   |
+| [Interview_Questions_Answered](http://pan.baidu.com/s/1cp1avO) | kd1c | 工作   |
+| [Using_English_at_work](http://pan.baidu.com/s/1qYoY51E) | wn34 | 工作   |
+| [Missing_Persons_English_Through_Stories](http://pan.baidu.com/s/1dE3XMfv) | 4os2 | 生活   |
+| [Deadly_Letter](http://pan.baidu.com/s/1cukIJk) | kx81 | 生活   |
+| [Introduction_to_the_United_States](http://pan.baidu.com/s/1hrGIUbU) | qk15 | 社会   |
 
   ![](https://img3.doubanio.com/lpic/s26599656.jpg)
 
@@ -84,8 +83,8 @@
 
   ## 迭代
 
-  * 2016年4月10日 三稿
-  * 2016年4月9日 二稿
-  * 2016年3月27日 初稿
+* 2016年4月10日 三稿
+* 2016年4月9日 二稿
+* 2016年3月27日 初稿
 
   ​
