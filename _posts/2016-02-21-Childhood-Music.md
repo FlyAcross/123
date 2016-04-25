@@ -4,7 +4,6 @@ title: 童年里的歌声记忆
 date: 2016-02-21
 categories: blog
 tags: [影音,资源]
-
 ---
 
 
@@ -23,7 +22,7 @@ tags: [影音,资源]
 
 * [名探侦コナン テーマ曲集2~THE BEST OF DETECTIVE CONAN 2](http://music.163.com/#/album?id=496537)
 
-* [名探侦コナン テーマ曲集3~THE BEST OF DETECTIVE CONAN 3](http://music.163.com/#/album?id=494927)	
+  * [名探侦コナン テーマ曲集3~THE BEST OF DETECTIVE CONAN 3](http://music.163.com/#/album?id=494927)
 
 * [名探侦コナン テーマ曲集4~THE BEST OF DETECTIVE CONAN 4](http://music.163.com/#/album?id=492691)
 
@@ -40,6 +39,8 @@ tags: [影音,资源]
 六、 [新世紀GPX OST（又名 高智能方程式）](http://music.163.com/#/search/m/?id=492735&s=%E9%AB%98%E6%99%BA%E8%83%BD%E6%96%B9%E7%A8%8B%E5%BC%8F&type=10)
 
 七、 [藤子・F・不二雄生诞80周年 ドラえもん（哆啦A梦、机器猫）歌の大全集](http://music.163.com/#/album?id=2866785)
+
+八、[High School Musical (O.S.T)](http://music.163.com/#/search/m/?id=2866785&s=High%20School%20Musical&type=10)
 
 # 资源
 
@@ -130,9 +131,24 @@ tags: [影音,资源]
 | [FLAC](http://pan.baidu.com/s/188F6Z ) | qq51 |
 |  [BK](http://pan.baidu.com/s/1mobqi )  | 28qf |
 
+八、[High School Musical (O.S.T)](http://shanyinlu.com/search?k=%E6%AD%8C%E8%88%9E%E9%9D%92%E6%98%A5)
+
+![](http://p3.music.126.net/pmFS6KaDeAqsIZrPJV-nOA==/1749322999804426.jpg)
+
+|                    名称                    | 提取码  |
+| :--------------------------------------: | :--: |
+| [High School Musical 1](http://pan.baidu.com/share/init?shareid=2871654836&uk=2841606392) | we9t |
+| [High School Musical 2](http://pan.baidu.com/share/init?shareid=2879635078&uk=2841606392) | f6cg |
+| [High School Musical 3](http://pan.baidu.com/s/1ntKFa3Z) | 2ivd |
+
 
 
 # 迭代
 
+* 2016年4月25日 三稿
+
+  (Add High School Musical)
+
 * 2016年4月9日 二稿
+
 * 2016年2月21日 初稿
