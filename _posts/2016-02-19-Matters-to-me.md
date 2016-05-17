@@ -25,7 +25,7 @@ tags: [影音]
 
 如果没有生活在如今这个信息时代，可能我不会通过歌声认识康妮，甚至康妮自己也不会与唱歌结缘。因为这个时代具备了相对充裕的生产力，人们才会有额外的精力来关注自身的娱乐需求，站在那个充满关注的平台上，康妮第一次发现了自我；同时因为这个时代生产力发展的不均匀状态，康妮即便没能得到在英国本土持续发展的机会，却还是能够在亚洲将自己的音乐事业坚持下去。
 
-她在达人秀结束后没能得到索尼唱片的签约协议，显而易见，唱片业的操盘手们并不认为她具备持续发展的潜力。她最终签了香港的唱片公司，从那以后，以亚洲为中心开展自己的演艺事业。因为在亚洲范围内还是具备相当数量的拥磊者，对于唱片公司来说就是具备一定的市场开发潜力，所以才会有最新专辑的面世。今天我花费了大半的时间来查看外网上对康妮的最新评价，目光在“支持者”、“怀疑者”与“反对者”的观点间游走，突然发现了一个很有趣的现象。先看一段评论：
+她在达人秀结束后没能得到索尼唱片的签约协议，显而易见，唱片业的操盘手们并不认为她具备持续发展的潜力。她最终签了香港的唱片公司，从那以后，以亚洲为中心开展自己的演艺事业。因为在亚洲范围内还是具备相当数量的拥磊者，才能继续得到公司的支持，最新专辑才得以面世。今天我花费了大半的时间来查看外网上对康妮的最新评价，目光在“支持者”、“怀疑者”与“反对者”的观点间游走，突然发现了一个很有趣的现象。先看一段评论：
 
 > I've seen her vids on YouTube over the years and her talent is undeniable. So happy that she didn't turn up on X Factor as youtube commenters are always saying, you know they'd completely ruin her, strip her away of her personality, squeeze as much money out of her as they can and then dispose of her. She has slowly developed a career the right way, no quick jumps into X Factor in the hopes of grabbing 15 minutes of fame, which she could easily have done as she's incredibly talented and they'd love that little Connie's back all grown up, instead, she worked hard and built a legitimate career slowly while developing her skills and enjoying life. Hats off to her for doing things the right way. Also, for those who missed it, her cover of Ghost (youtube) is amazing, as are her other songs, but love that one personally, very impromptu but great.
 
