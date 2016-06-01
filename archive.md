@@ -1,11 +1,21 @@
 ---
-layout: post
-title: “archive"
-description:“零碎的言语”
+layout: page
+title: "Archive"
+description: "你看到的，是我练习千字文的所有文章"
 header-img: "img/red.jpg"
-
 ---
 
-* 2016年05月31日
 
-  因萝莉而观看《拼贴幸福》，却感受到各家暗流同时涌动所带来的恶果。
+<ul class="listing">
+{% for post in site.posts %}
+  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
+  {% if year != y %}
+    {% assign year = y %}
+    <li class="listing-seperator">{{ y }}</li>
+  {% endif %}
+  <li class="listing-item">
+    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
