@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Timeline"
+title: “archive"
 description:“零碎的言语”
 header-img: "img/red.jpg"
 
