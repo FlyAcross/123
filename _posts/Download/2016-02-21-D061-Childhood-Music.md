@@ -19,14 +19,11 @@ tags: [影音,资源]
 一、 [柯南精选集系列](http://music.163.com/#/search/m/?id=4940932&s=THE%20BEST%20OF%20DETECTIVE%20CONAN&type=10)
 
 * [名探侦コナン テーマ曲集1~THE BEST OF DETECTIVE CONAN 1](http://music.163.com/#/album?id=496860)
-
 * [名探侦コナン テーマ曲集2~THE BEST OF DETECTIVE CONAN 2](http://music.163.com/#/album?id=496537)
-
-  * [名探侦コナン テーマ曲集3~THE BEST OF DETECTIVE CONAN 3](http://music.163.com/#/album?id=494927)
-
+* [名探侦コナン テーマ曲集3~THE BEST OF DETECTIVE CONAN 3](http://music.163.com/#/album?id=494927)
 * [名探侦コナン テーマ曲集4~THE BEST OF DETECTIVE CONAN 4](http://music.163.com/#/album?id=492691)
-
 * [名探侦コナン テーマ曲集5~THE BEST OF DETECTIVE CONAN 5](http://music.163.com/#/album?id=3048041) 
+* [名探侦コナン TVオリジナル サウンドトラック Selection BEST](http://www.ed2000.com/ShowFile-5246.html)
 
 二、 [数码宝贝 Digimon History 1999-2006 All The Best](http://music.163.com/#/album?id=494028)
 
@@ -80,6 +77,15 @@ tags: [影音,资源]
 | :-------------------------------------: | :--: | :--------------------------------------: |
 |  [FLAC](http://pan.baidu.com/s/1q6KZ8)  | d8x9 | [全专试听](http://music.163.com/#/album?id=3048041) |
 | [AAC](http://pan.baidu.com/s/1sjoZ5M1 ) | zgkp |                                          |
+
+![](http://image-3.verycd.com/6cc63b8b2a77855d75f592407f2c652314990(600x)/thumb.jpg)
+
+2007年年末出品。双CD集合了现今TV版中大部分常用的BGM，在覆盖面广度上自然是无可挑剔的，对于有收藏OST习惯的柯迷来说，此双CD自然是不可错过的。
+
+|          名称           |                   下载地址                   |
+| :-------------------: | :--------------------------------------: |
+| 《名侦探柯南TV版OST精选集》[APE] | [1](ed2k://\|file\|%E5%A4%A7%E9%87%8E%E5%85%8B%E5%A4%AB.-.[%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3.TV%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB.%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF.Selection.BEST].%E4%B8%93%E8%BE%91.(APE)(ED2000.COM).rar\|937151284\|d2ec221e20ed6ff8e3bc2df77ff65aff\|h=7nme5wu6swxlqwcnkbyqvdpm4milfyxo\|/) |
+|        Boolet         | [2](ed2k://\|file\|%E5%A4%A7%E9%87%8E%E5%85%8B%E5%A4%AB.-.[%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3.TV%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB.%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF.Selection.BEST].booklet(ED2000.COM).rar\|5910111\|f59457a42c3eee0e27d909dd50d15b78\|h=hj7jquftqzwcgbykf2to5ns762aa4jwo\|/) |
 
 二、 [数码宝贝 Digimon History 1999-2006 All The Best](http://tieba.baidu.com/p/1686727919)
 
@@ -144,6 +150,10 @@ tags: [影音,资源]
 
 
 # 迭代
+
+* 2016年06月02日 四稿
+
+  (Add  名探侦コナン TVオリジナル サウンドトラック Selection BEST)
 
 * 2016年04月25日 三稿
 
