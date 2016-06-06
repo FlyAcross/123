@@ -1,5 +1,5 @@
 ---
-title: Tags
+title: “Tags”
 layout: default
 description: keep hungry keep foolish
 header-img: "img/semantic.jpg"
@@ -13,7 +13,7 @@ header-img: "img/semantic.jpg"
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="site-heading" id="tag-heading">
-                   # <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1> 
+                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1> 
                     <span class="subheading">{{ page.description }}</span>
                 </div>
             </div>
