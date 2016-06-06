@@ -20,12 +20,12 @@ header-img: "img/semantic.jpg"
 {% endfor %}
 </div>
 
-            <!-- 标签列表 -->
-    		{% for tag in site.tags %}
-    		<div class="one-tag-list">
-    		  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
-                    <span class="tag-text">{{ tag[0] }}</span>
-                </span>
+<!-- 标签列表 -->
+{% for tag in site.tags %}
+<div class="one-tag-list">
+<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
+<span class="tag-text">{{ tag[0] }}</span>
+</span>
 
 {% for post in tag[1] %}
 
