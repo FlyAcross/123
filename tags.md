@@ -1,6 +1,6 @@
 ---
-title: “Tags”
-layout: default
+title: Tags
+layout: page
 description: keep hungry keep foolish
 header-img: "img/semantic.jpg"
 ---
