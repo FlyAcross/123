@@ -23,7 +23,7 @@ header-img: "img/semantic.jpg"
 
 <ul class="listing">
 
-			<div class="one-tag-list">
+	<div class="one-tag-list">
 			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
 	                <span class="tag-text">{{ tag[0] }}</span>
 	            </span>
