@@ -21,8 +21,6 @@ header-img: "img/semantic.jpg"
 {% endfor %}
 </div>
 
-<ul class="listing">
-
 	<div class="one-tag-list">
 			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
 	                <span class="tag-text">{{ tag[0] }}</span>
