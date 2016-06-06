@@ -26,15 +26,22 @@ header-img: "img/semantic.jpg"
     		  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
                     <span class="tag-text">{{ tag[0] }}</span>
                 </span>
-    			
-    {% for post in tag[1] %}
-    <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time> 
-    <a href="{{post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-    {% endfor %}
-    </ul>
+
+{% for post in tag[1] %}
+
+  <li class="listing-item">
+
+  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+
+  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+
+  </li>
+
+{% endfor %}
+
+{% endfor %}
+
+</ul>
 
 
 
