@@ -22,8 +22,11 @@ header-img: "img/semantic.jpg"
 </div>
 
 <ul class="listing">
-{% for tag in site.tags %}
-  <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
+
+			<div class="one-tag-list">
+			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
+	                <span class="tag-text">{{ tag[0] }}</span>
+	            </span>
 {% for post in tag[1] %}
   <li class="listing-item">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
