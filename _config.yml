@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: 静夜思碎
 header-img: "img/blue.jpg"
 tagline: "cn"  
@@ -55,9 +55,22 @@ comments :
       short_name : 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: 
+google_analytics: UA-78887529-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
+
+<script>
+  (function() {
+    var cx = '016226088890356192871:dwt-jnfhupo';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
 
 # Links to include in footer navigation
