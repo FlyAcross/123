@@ -15,7 +15,7 @@ header-img: "img/semantic.jpg"
 {% endfor %}
 
 </div>
-.
+
 
 <!-- 标签列表 -->
 {% for tag in site.tags %}
