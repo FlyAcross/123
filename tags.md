@@ -6,9 +6,6 @@ header-img: "img/semantic.jpg"
 ---
 
 ## 基因列表
-
-<!-- Main Content -->
-<div class="container">
 ​	
 <div class="row">
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col
