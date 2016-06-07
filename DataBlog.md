@@ -2,7 +2,7 @@
 layout: page
 title: "DataBlog"
 description: "零碎的言语"
-header-img: "img/zhihu.jpg"
+header-img: "img/green.jpg"
 
 ---
 

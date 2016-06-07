@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-description: " "
-header-img: "img/sky1.jpg"
+description: "之所以喜欢写字，是因为在逐字的审慎中可以得到一个期望中的自己。 "
+header-img: "img/dolphin.gif"
 ---
 
-之所以喜欢写字，是因为在逐字的审慎中可以得到一个期望中的自己。
+
 
 ### 坚信：
 - 一切技能皆可习得，包括写作
