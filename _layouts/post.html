@@ -15,7 +15,7 @@ layout: default
                 <div class="post-heading">
                     <div class="Tags">
                         {% for tag in page.tags %}
-                        <a class="tag" href="/Tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
+                        <a class="tag" href="/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
                         {% endfor %}
                     </div>
                     <h1>{{ page.title }}</h1>
@@ -37,6 +37,7 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-container">
+
                 {{ content }}
 
                 <hr>
@@ -59,7 +60,7 @@ layout: default
                     .ds-share{
                         text-align: right;
                     }
-                    
+
                     @media only screen and (max-width: 700px) {
                         .ds-share {
 
@@ -141,7 +142,6 @@ var duoshuoQuery = {short_name:"3un4"};
     /* place left on bigger screen */
     @media all and (min-width: 800px) {
         .anchorjs-link{
-            display: none;
             position: absolute;
             left: -0.75em;
             font-size: 1.1em;
