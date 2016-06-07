@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "timeline"
+title: "DataBlog"
 description: "零碎的言语"
 header-img: "img/red.jpg"
 
