@@ -50,7 +50,7 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : 
+    short_name : 3un4
   disqus :
       short_name : 
 
