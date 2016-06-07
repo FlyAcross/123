@@ -7,11 +7,19 @@ header-img: "img/semantic.jpg"
 
 ## 基因列表
 
-<div id='tag_cloud'>
+<!-- Main Content -->
+<div class="container">
+​	
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2 col-md-10 col
+-md-offset-1">
+<!-- 标签云 -->
+<div id='tag_cloud' class="tags">
 {% for tag in site.tags %}
-<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+<a href="#{{ tag[0] }}" title="{{ tag[0] }}" 
+ rel="{{ tag[1].size }}">{{ tag[0] }}</a>
 {% endfor %}
-</div> <br />
+</div>
 
 <!-- 标签列表 -->
 {% for tag in site.tags %}
