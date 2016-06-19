@@ -38,7 +38,7 @@ header-img: "img/semantic.jpg"
 
 {% endfor %}
 
-</ul>
+
 
 
 
