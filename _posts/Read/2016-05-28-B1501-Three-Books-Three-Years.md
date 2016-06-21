@@ -13,10 +13,6 @@ tags: [阅读]
 哦，初三，原来是你
 ```
 
-<html>
-
-<body>
-
 <table width="420" height="240" border="1" >
 
 <td>
