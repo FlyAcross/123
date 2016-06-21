@@ -3,7 +3,7 @@ layout: post
 title: 三年，三本书——成长的记录
 date: 2016-05-28
 categories: blog
-tags: [书籍]
+tags: [阅读]
 
 ---
 
