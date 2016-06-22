@@ -11,62 +11,48 @@ tags: [阅读]
 哦，初三，原来是你
 ```
 
-<table width="420" height="240" border="1" >
-
-<td>
-
-<img src = "https://images-cn.ssl-images-amazon.com/images/I/516miTaSDZL._AA160_.jpg">
-
-<td align="right">
+<html>
+<body>
 
 <table border="1">
-
 <tr>
-
-<th>author</th>
-
-<td>陈盈颖</td>
-
-<tr>
-
-<th>publisher</th>
-
-<td>中国青年出版社</td>
-
-</tr>
-
-<th>language</th>
-
-<td>Chinese</td>
-
-</tr>
-
-<tr>
-
-<th>status</th>
-
-<td>已读</td>
-
-</tr>
-
-<th>description</th>
-
-<td> 
-
-三年，三本书——笔尖转动，记录从小升初至初中毕业的故事。
-
-</tr>
-
-</table>
-
+<td>
+<img src = "https://images-cn.ssl-images-amazon.com/images/I/516miTaSDZL._AA160_.jpg">
 </td>
 
+<td>
+<table border="1">
+
+    <tr>
+    <th>author</th>
+    <td>陈盈颖</td>
+    </tr>
+    <tr>
+    <th>publisher</th>
+    <td>中国青年出版社</td>
+    </tr>
+    <tr>
+    <th>language</th>
+    <td>Chinese</td>
+    </tr>
+    <tr>
+    <th>status</th>
+    <td>已读</td>
+    </tr>
+    <tr>
+    <th>description</th>
+    <td>三年，三本书——笔尖转动，记录学生时代。</td>
+    </tr>
+
+
+</table>
+</td>
+
+</tr>
 </table>
 
-
-
-
-三年，三本书——笔尖转动，记录从小升初至初中毕业的故事。
+</body>
+</html>
 
 在2013年3月出版的首部《今年，我们小升初》，因为准确细致的记录了上海地区小升初的种种备考细节，向外省人了解上海——这一中国经济最发达地区的教育现实打开了一扇天窗。出于功利性的角度，此书亦能为该地区往后的考生提供备考经验。
 
