@@ -7,7 +7,7 @@ header-img: "img/semantic.jpg"
 
 {% for category in site.categories %}
 <h2>{{ category | first }}</h2>
-</span>{{ category | last | size }}</span>
+
 <ul class="arc-list">
 
     {% for post in category.last %}
