@@ -19,7 +19,7 @@ keywords 1: [书单]
 <table border="1">
 <tr>
 <td>
-<img src = "https://images-cn.ssl-images-amazon.com/images/I/51TlkwM4VfL._AA160_.jpg">
+<img src = "https://images-cn.ssl-images-amazon.com/images/I/516miTaSDZL._AA160_.jpg">
 </td>
 
 <td>
@@ -58,4 +58,3 @@ keywords 1: [书单]
 
 
 
-hasfkjsdfhasjfsdnf

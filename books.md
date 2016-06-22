@@ -1,12 +1,9 @@
-﻿---
+---
 layout: page
 title: Books
 description: "我的阅读记录"  
 header-img: "img/semantic.jpg" 
-
 ---
-
-基因列表
 
 <div id='keywords 1_cloud'>
 
