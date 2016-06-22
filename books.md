@@ -1,15 +1,15 @@
----
+﻿---
 layout: page
 title: Books
 description: "我的阅读记录"  
 header-img: "img/semantic.jpg" 
 ---
 
-<div id='keywords 1_cloud'>
+<div id='keywords1_cloud'>
 
-{% for keywords 1 in site.keywords 1s %}
+{% for keywords1 in site.keywords1s %}
 
-<a href="#{{ keywords 1[0] }}" title="{{ keywords 1[0] }}" rel="{{ keywords 1[1].size }}">{{ keywords 1[0] }}</a>
+<a href="#{{ keywords1[0] }}" title="{{ keywords1[0] }}" rel="{{ keywords1[1].size }}">{{ keywords1[0] }}</a>
 
 {% endfor %}
 
@@ -17,17 +17,17 @@ header-img: "img/semantic.jpg"
 
 <!-- 标签列表 -->
 
-{% for keywords 1 in site.keywords 1s %}
+{% for keywords1 in site.keywords1s %}
 
-<div class="one-keywords 1-list">
+<div class="one-keywords1-list">
 
-<span class="fa fa-keywords 1 listing-seperator" id="{{ keywords 1[0] }}">
+<span class="fa fa-keywords1 listing-seperator" id="{{ keywords1[0] }}">
 
-<span class="keywords 1-text">{{ keywords 1[0] }}</span>
+<span class="keywords1-text">{{ keywords1[0] }}</span>
 
 </span>
 
-{% for post in keywords 1[1] %}
+{% for post in keywords1[1] %}
 
   <li class="listing-item">
 
