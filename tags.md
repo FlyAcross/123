@@ -19,7 +19,7 @@ header-img: "img/semantic.jpg"
 
 <!-- 标签列表 -->
 {% for tag in site.tags %}
-<div class="one-tag-list">
+<h3><div class="one-tag-list"></h3>
 <span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
 <h3><span class="tag-text">{{ tag[0] }}</span></h3>
 </span>
