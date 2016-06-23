@@ -22,7 +22,7 @@ header-img: "img/semantic.jpg"
 <div class="one-tag-list">
 <p><span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
 <span class="tag-text">{{ tag[0] }}</span>
-</span></p>
+</span>
 
 {% for post in tag[1] %}
 
