@@ -17,7 +17,7 @@ header-img: "img/red.jpg"
 <hr>
 {% for category in site.categories %}
 <p><a name="{{category | first }}" href="#{{ category | first }}">{{ category | first }}</a>
-(<span  class="category-number">{{ category | last | size }}</span></p>)
+(<span  class="category-number">{{ category | last | size }}</span>)</p>
 <ul class="arc-list">
     {% for post in category.last %}
     <li><span class="category-date">{{ post.date | date:"%Y-%m-%d"}}</span>
