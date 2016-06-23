@@ -1,4 +1,12 @@
- 吾血之血的影评 http://feed.mtime.com/my/15554160/feed.rss
+---
+layout: drafts
+title: 书籍
+date: 2016-06-20
+categories: blog
+tags: [阅读]
+---
+
+吾血之血的影评 http://feed.mtime.com/my/15554160/feed.rss
 
 Kindle伴侣 http://kindlefere.com/feed
 
