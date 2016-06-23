@@ -14,7 +14,7 @@ header-img: "img/facebook.jpg"
   {% if year != y %}
 
     {% assign year = y %}
-    <h3><li class="listing-seperator">{{ y }}</li><h3>
+    <h3><li class="listing-seperator">{{ y }}</li></h3>
 
   {% endif %}
 
