@@ -5,35 +5,15 @@ description: "你看到的，是我练习千字文的所有文章"
 header-img: "img/red.jpg"
 ---
 
+<ul class="list-unstyled">
 
-
-{% for post in site.posts  %}
-    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% capture this_month %}{{ post.date | date: "%m" }}{% endcapture %}
-    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-    {% capture next_month %}{{ post.previous.date | date: "%m" }}{% endcapture %}
-      
-    {% if forloop.first %}
-      <legend id="{{this_year}}-{{this_month}}">{{this_year}}年-{{this_month}}月</legend>
-      <ul>
-    {% endif %}
-    <li><span>{{ post.date | date: "%Y年-%m月-%d日" }}</span> &raquo; 
-      <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-      
-    {% if forloop.last %}
-      </ul>
-    {% else %}
-      {% if this_year != next_year %}
-        </ul>
-        <legend id="{{next_year}}-{{next_month}}">{{next_year}}年-{{next_month}}月</legend>
-        <ul>
-      {% else %}    
-        {% if this_month != next_month %}
-        </ul>
-        <legend id="{{next_year}}-{{next_month}}">{{next_year}}年-{{next_month}}月</legend>
-        <ul>
-        {% endif %}
-      {% endif %}
-    {% endif %}
-{% endfor %}
+     {% for post in site.posts limit:100 %} 
+     {% unless post.next %} 
+    <h2>{{ post.date | date: '%Y' }}</h2> 
+    {% else %} {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %} {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %} 
+    {% if year != nyear %} 
+    <h2>{{ post.date | date: '%Y' }}</h2> {% endif %} 
+    {% endunless %} 
+    <li><h4><span>{{ post.date | date: "%Y-%m-%d" }}</span>    <a href="{{ post.url }}" style="color:black">{{ post.title }}</a></h4></li> 
+    {% endfor %} 
+</ul> 
