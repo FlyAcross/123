@@ -9,7 +9,7 @@ header-img: "img/red.jpg"
 
 	{% if cat[0] != 'blog' %} 
    <a name="{{ cat[0] }}"></a>
-   <h2>{{ cat[0] }}({{ cat[1].size }})</h2> 
+{{ cat[0] }}({{ cat[1].size }})
      {% for post in cat[1] %} 
 
     
