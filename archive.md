@@ -5,14 +5,16 @@ description: "你看到的，是我练习千字文的所有文章"
 header-img: "img/red.jpg"
 ---
 
-{% for cat in site.categories %} 
-
-	{% if cat[0] != 'blog' %} 
-   <a name="{{ cat[0] }}"></a>
-     {% for post in cat[1] %} 
-
-​    
-        <li>{{ post.date | date:"%d/%m/%Y"}}<a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+<section class="container posts-content">
+{% assign sorted_categories = site.categories | sort %}
+{% for category in sorted_categories %}
+<h3>{{ category | first }}</h3>
+<ol class="posts-list" id="{{ category[0] }}">
+{% for post in category.last %}
+<li class="posts-list-item">
+<span class="posts-list-meta">{{ post.date | date:"%Y-%m-%d" }}</span>
+<a class="posts-list-name" href="{{ post.url }}">{{ post.title }}</a>
+</li>
+{% endfor %}
+</ol>
 {% endfor %}
