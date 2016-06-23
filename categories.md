@@ -9,15 +9,15 @@ header-img: "img/green.jpg"
 
     <p>
     {% for category in site.categories %}
-    <a href="#{{ category | first }}">{{ category | first }}</a>
+    <h3><a href="#{{ category | first }}">{{ category | first }}</a></h3>
    (<span  class="category-number">{{ category | last | size }}</span>)
     {% endfor %}
     </p>
 </div>
 <hr>
 {% for category in site.categories %}
-<h3><a name="{{category | first }}" href="#{{ category | first }}">{{ category | first }}</a>
-(<span  class="category-number">{{ category | last | size }}</span>)</h3>
+<h3><a name="{{category | first }}" href="#{{ category | first }}">{{ category | first }}</a></h3>
+(<span  class="category-number">{{ category | last | size }}</span>)
 <ul class="arc-list">
     {% for post in category.last %}
     <li><span class="category-date">{{ post.date | date:"%Y-%m-%d"}}</span>
