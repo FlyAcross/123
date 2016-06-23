@@ -2,12 +2,12 @@
 layout: post
 title: 垫底辣妹
 date: 2016-05-19
-categories: blog
-tags: [影音]
+categories: [影音]
+tags: 
 ---
 
 * Put anything here
-{:toc}
+  {:toc}
 
 ## 观影前的心情
 

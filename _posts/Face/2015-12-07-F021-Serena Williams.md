@@ -2,8 +2,8 @@
 layout: post
 title: 美国网球选手小威
 date: 2015-12-08
-categories: blog
-tags: [遭遇与思考]
+categories: [遭遇与思考]
+tags: 
 description: 本是旧作，今日修改放上。
 ---
 

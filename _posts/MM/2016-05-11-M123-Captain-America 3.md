@@ -3,8 +3,8 @@
 layout: post
 title: 美国队长3：英雄内战
 date: 2016-5-11
-categories: blog
-tags: [影音]
+categories: [影音]
+tags: 
 ---
 
 ![](http://img31.mtime.cn/pi/2015/11/25/145936.29814542.jpg)

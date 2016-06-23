@@ -2,8 +2,8 @@
 layout: post
 title: 迟来的军训感受
 date: 2015-12-16
-categories: blog
-tags: [遭遇与思考]
+categories: [遭遇与思考]
+tags: 
 
 ---
 # 军训——关于自由的一课

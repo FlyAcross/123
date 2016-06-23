@@ -2,8 +2,8 @@
 layout: post
 title: Matters to me
 date: 2016-02-17
-categories: blog
-tags: [影音]
+categories: [影音]
+tags: 
 ---
 # 写在新専到来之前
 

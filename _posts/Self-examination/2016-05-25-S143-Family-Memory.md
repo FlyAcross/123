@@ -2,8 +2,8 @@
 layout: post
 title: 家人·记
 date: 2016-05-25
-categories: blog
-tags: [自审]
+categories: [自审]
+tags: 
 ---
 
 ## 背影
