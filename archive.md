@@ -9,10 +9,9 @@ header-img: "img/red.jpg"
 
 	{% if cat[0] != 'blog' %} 
    <a name="{{ cat[0] }}"></a>
-{{ cat[0] }}({{ cat[1].size }})
      {% for post in cat[1] %} 
 
-    
+​    
         <li>{{ post.date | date:"%d/%m/%Y"}}<a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
