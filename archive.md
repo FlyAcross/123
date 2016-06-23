@@ -5,15 +5,12 @@ description: "你看到的，是我练习千字文的所有文章"
 header-img: "img/red.jpg"
 ---
 
-<ul class="list-unstyled">
+{% for category in site.categories %}
+<h2>{{ category | first }}</h2>
+<ul class="arc-list">
 
-     {% for post in site.posts limit:100 %} 
-     {% unless post.next %} 
-    <h2>{{ post.date | date: '%Y' }}</h2> 
-    {% else %} {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %} {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %} 
-    {% if year != nyear %} 
-    <h2>{{ post.date | date: '%Y' }}</h2> {% endif %} 
-    {% endunless %} 
-    <li><h4><span>{{ post.date | date: "%Y-%m-%d" }}</span>    <a href="{{ post.url }}" style="color:black">{{ post.title }}</a></h4></li> 
-    {% endfor %} 
-</ul> 
+    {% for post in category.last %}
+        <li>{{ post.date | date:"%d/%m/%Y"}}<a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+{% endfor %}
