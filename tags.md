@@ -5,7 +5,6 @@ description: "哈哈，你找到了我的文章基因库"
 header-img: "img/semantic.jpg"  
 ---
 
-## 基因列表
 <div id='tag_cloud'>
 
 {% for tag in site.tags %}
@@ -16,6 +15,7 @@ header-img: "img/semantic.jpg"
 
 </div>
 
+<hr>
 
 <!-- 标签列表 -->
 {% for tag in site.tags %}
