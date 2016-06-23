@@ -16,8 +16,8 @@ header-img: "img/green.jpg"
 </div>
 <hr>
 {% for category in site.categories %}
-<p><a name="{{category | first }}" href="#{{ category | first }}">{{ category | first }}</a>
-(<span  class="category-number">{{ category | last | size }}</span>)</p>
+<h3><a name="{{category | first }}" href="#{{ category | first }}">{{ category | first }}</a>
+(<span  class="category-number">{{ category | last | size }}</span>)</h3>
 <ul class="arc-list">
     {% for post in category.last %}
     <li><span class="category-date">{{ post.date | date:"%Y-%m-%d"}}</span>
