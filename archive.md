@@ -1,5 +1,5 @@
 ---
-layout:  
+layout: page 
 title: "Archive"
 published: false
 description: "你看到的，是我练习千字文的所有文章"
@@ -19,4 +19,13 @@ header-img: "img/red.jpg"
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}
+</ul>
+
+<ul>
+  {% for post in site.posts %}
+
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
 </ul>
