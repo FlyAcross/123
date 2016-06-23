@@ -5,17 +5,22 @@ description: "你看到的，是我练习千字文的所有文章"
 header-img: "img/red.jpg"
 ---
 
-<ul class="posts">
+<div class="title">
 
-    {% for post in site.posts %}
-    {% capture m %}{{post.date | date:"%m"}}{% endcapture %}
-    {% if month != m %}
-    {% assign month = m %}
-    <li class="listing-seperator">{{ post.date | date:"%Y-%m" }}</li>
-    {% endif %}
-    <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    <p>
+    {% for category in site.categories %}
+    <a href="#{{ category | first }}">{{ category | first }}</a><span  class="category-number">{{ category | last | size }}</span>
+    {% endfor %}
+    </p>
+</div>
+<hr>
+{% for category in site.categories %}
+<p><a name="{{category | first }}" href="#{{ category | first }}">{{ category | first }}</a><span  class="category-number">{{ category | last | size }}</span></p>
+<ul class="arc-list">
+    {% for post in category.last %}
+    <li><span class="category-date">{{ post.date | date:"%Y-%m-%d"}}</span>
+    <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endfor %}
 </ul>
+{% endfor %}
