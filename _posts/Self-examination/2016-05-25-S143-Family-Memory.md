@@ -2,7 +2,7 @@
 layout: post
 title: 家人·记
 date: 2016-05-25
-categories: [自审]
+categories: [Self-examination]
 tags: 
 ---
 

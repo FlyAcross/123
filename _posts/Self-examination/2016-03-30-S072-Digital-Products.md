@@ -2,7 +2,7 @@
 layout: post
 title: 我与数码产品
 date: 2016-03-30
-categories: [自审]
+categories: [Self-examination]
 tags: 
 ---
 

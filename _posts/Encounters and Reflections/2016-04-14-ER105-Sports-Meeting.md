@@ -2,7 +2,7 @@
 layout: post
 title: 2016年春季运动会小计
 date: 2016-04-14
-categories: [遭遇与思考]
+categories: [Encounters and Reflections]
 tags: 
 ---
 

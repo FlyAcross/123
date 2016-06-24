@@ -2,7 +2,7 @@
 layout: post
 title: 把你的英语用起来
 date: 2016-04-10
-categories: [英语,资源]
+categories: [Reading,English,Resources]
 tags: 
 ---
 
