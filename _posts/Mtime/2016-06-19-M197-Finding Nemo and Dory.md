@@ -6,7 +6,51 @@ categories: [Mtime]
 tags: 
 ---
 
-![](http://img31.mtime.cn/pi/2016/06/14/170553.78477594_1000X1000.jpg)
+```
+ Finding Dory 
+```
+<html>
+<body>
+
+<table border="1">
+<tr>
+<td>
+<img src = "http://img31.mtime.cn/pi/2016/06/14/170553.78477594_220X220.jpg">
+</td>
+
+<td>
+<table border="1">
+
+    <tr>
+    <th>director</th>
+    <td>安德鲁·斯坦顿 / 安格斯·麦克莱恩</td>
+    </tr>
+    <tr>
+    <th>publisher</th>
+    <td>Pixar</td>
+    </tr>
+    <tr>
+    <th>language</th>
+    <td>English</td>
+    </tr>
+    <tr>
+    <th>status</th>
+    <td>1look</td>
+    </tr>
+    <tr>
+    <th>description</th>
+    <td>1</td>
+    </tr>
+
+
+</table>
+</td>
+
+</tr>
+</table>
+
+</body>
+</html>
 
 自己偏爱动画电影，近年来大热的《疯狂原始人》、《头脑特工队》和《疯狂动物城》都有看过。在我眼里，美式动画电影无论角色设定和故事背景如何变化，其故事内核中都会包含“成长”的元素。自己仍然处在成长的阶段，所以能够从中获得一些关于成长的经验。但是自己的内心里始终有着疑问，是否个人的成长注定意味着与父母的分离，而且是物质联系与精神联系的双重分离。恰逢2016年父亲节，接连看了两部《海底总动员》，我找到了一些有助于回答上述问题的信息。
 
@@ -36,73 +80,7 @@ tags:
 
 第一部的海鸥，第二部的章鱼
 
-<html>
 
-<body>
-
-<table   border="1" >
-
-<tr>
-
-<th align="left">岛上书店</th>
-
-</tr>
-
-<td>
-
-<img src = "https://images-cn.ssl-images-amazon.com/images/I/516miTaSDZL._AA160_.jpg">
-
-<td align="right">
-
-<table border="1">
-
-
-
-<th>title</th>
-
-<td>岛上书店</td>
-
-
-
-<tr>
-
-<th>status</th>
-
-<td>未读</td>
-
-
-
-<tr>
-
-<th>author</th>
-
-<td>加布瑞埃拉•泽文</td>
-
-</tr>
-
-<th>publisher</th>
-
-<td>江苏凤凰文艺出版社</td>
-
-</tr>
-
-<tr>
-
-<th>language</th>
-
-<td>中文</td>
-
-</tr>
-
-<th>description</th>
-
-<td> 
-
-
-
-</td>
-
-</table>
 
 
 
