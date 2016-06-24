@@ -35,7 +35,7 @@ tags:
 
 ![](http://img011.hc360.cn/g7/M00/22/04/wKhQslNegYyEBRuYAAAAAK2WUV8184.jpg)
 
-* [手机贴膜的商机](http://3un4.com/blog/2016/06/19/F186-Film/)
+* [手机贴膜的商机](http://3un4.com/encounters%20and%20reflections/2016/06/19/ER186-Film/)
 
 ## 迭代
 
