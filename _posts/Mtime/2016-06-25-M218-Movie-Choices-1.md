@@ -2,7 +2,7 @@
 layout: post
 title: 浅谈《独立日》与《三人行》
 date: 2016-06-25
-categories: Mtime
+categories: [Mtime]
 tags: []
 
 ---
