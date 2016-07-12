@@ -86,8 +86,11 @@ tags: [书单]
     <td>Chinese</td>
     </tr>
     <tr>
-    <th>time-consuming</th>
-    <td>20160701-20160704</td>
+    <th>status</th>
+    <td>
+    once
+    (20160701-20160704)
+    </td>
     </tr>
     <tr>
     <th>description</th>
@@ -127,7 +130,7 @@ tags: [书单]
     <td>（苏）格拉宁</td>
     </tr>
     <tr>
-    <th>leading-actor</th>
+    <th>protagonist</th>
     <td>柳比歇夫</td>
     </tr>
     <tr>
@@ -135,12 +138,15 @@ tags: [书单]
     <td>Chinese</td>
     </tr>
     <tr>
-    <th>time-consuming</th>
-    <td>20160705-20160711</td>
+    <th>status</th>
+    <td>
+    once
+    (20160705-20160711)
+    </td>
     </tr>
     <tr>
     <th>description</th>
-    <td>推荐一种时间管理方法,记下每件事的花费时间,以周、月、年等连续dizeng的时间段进行分析,不断纠正偏差。</td>
+    <td>推荐一种时间管理方法,记下每件事的花费时间,以周、月、年等连续递增的时间段进行分析,不断纠正偏差。</td>
     </tr>
 
 
@@ -184,8 +190,11 @@ tags: [书单]
     <td>Chinese</td>
     </tr>
     <tr>
-    <th>time-consuming</th>
-    <td>20160712(2 hours)</td>
+    <th>status</th>
+    <td>
+    once
+    (20160712,2 hours)
+    </td>
     </tr>
     <tr>
     <th>description</th>
