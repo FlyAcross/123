@@ -26,7 +26,7 @@ tags: []
 <table border="1">
 <tr>
 <td>
-<img src = "http://img31.mtime.cn/mg/2016/06/03/115725.79872014_270X405X4.jpg">
+<img src = "http://img31.mtime.cn/mt/2016/06/03/115715.64297762_96X128.jpg">
 </td>
 
 <td>
