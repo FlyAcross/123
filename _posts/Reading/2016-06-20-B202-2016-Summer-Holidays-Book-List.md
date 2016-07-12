@@ -88,7 +88,7 @@ tags: [书单]
     <tr>
     <th>status</th>
     <td>
-    Once
+    ( ^_^ )
     (20160701-20160704)
     </td>
     </tr>
@@ -140,7 +140,7 @@ tags: [书单]
     <tr>
     <th>status</th>
     <td>
-    Once
+    ( ^_^ )
     (20160705-20160711)
     </td>
     </tr>
@@ -192,7 +192,7 @@ tags: [书单]
     <tr>
     <th>status</th>
     <td>
-    Once
+    ( ^_^ )
     (20160712,2 hours)
     </td>
     </tr>
