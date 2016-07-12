@@ -54,7 +54,7 @@ tags: [时间管理]
     <tr>
     <th>status</th>
     <td>
-    Once
+    √
     (20160705-20160711)
     </td>
     </tr>
