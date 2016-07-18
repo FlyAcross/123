@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: "Archive"
-published: false
+published: 
 description: "你看到的，是我练习千字文的所有文章"
 header-img: "img/facebook.jpg"
 ---
