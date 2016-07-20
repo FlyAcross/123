@@ -2,7 +2,7 @@
 layout: post
 title: 一生的时间该如何计量
 date: 2016-07-10
-categories: [Reading]
+categories: [阅读]
 tags: [时间管理]
 ---
 
