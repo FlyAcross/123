@@ -2,7 +2,7 @@
 layout: post
 title: 2016年暑假预读书目
 date: 2016-06-20
-categories: [阅读]
+categories: [Reading]
 tags: [书单]
 
 ---

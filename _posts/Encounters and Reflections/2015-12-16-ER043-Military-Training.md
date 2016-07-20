@@ -2,7 +2,7 @@
 layout: post
 title: 迟来的军训感受
 date: 2015-12-16
-categories: [遇见思考]
+categories: [Encounters and Reflections]
 
 ---
 # 军训——关于自由的一课
