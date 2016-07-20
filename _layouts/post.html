@@ -16,6 +16,9 @@ layout: default
                     <div class="Categories">
                         {% for category in page.categories%}
                         <a class="category" href="/Categories/#{{ category }}" title="{{ category}}">{{ category}}</a>
+                        {% endfor %}
+                    </div>
+                    <div class="Tags">
                         {% for tag in page.tags %}
                         <a class="tag" href="/Tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
                         {% endfor %}
