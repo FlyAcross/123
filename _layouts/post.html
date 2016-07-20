@@ -18,6 +18,11 @@ layout: default
                         <a class="tag" href="/Tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
                         {% endfor %}
                     </div>
+                    <div class="Categories">
+                        {% for tag in page.categories%}
+                        <a class="categorie" href="/Categories/#{{ categorie }}" title="{{ categorie}}">{{ categorie}}</a>
+                        {% endfor %}
+                    </div>
                     <h1>{{ page.title }}</h1>
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>

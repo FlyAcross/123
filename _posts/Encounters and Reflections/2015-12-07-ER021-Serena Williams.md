@@ -2,8 +2,7 @@
 layout: post
 title: 美国网球选手小威
 date: 2015-12-08
-categories: [Encounters and Reflections]
-tags: 
+categories: [遇见思考]
 description: 本是旧作，今日修改放上。
 ---
 
