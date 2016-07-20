@@ -2,7 +2,7 @@
 layout: post
 title: “过家家”般的创业比赛
 date: 2016-03-31
-categories:[遇见思考]
+categories: [遇见思考]
 ---
 
 
